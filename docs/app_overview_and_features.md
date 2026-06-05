@@ -43,7 +43,7 @@ Addressing the missing educator link identified in systematic reviews, teachers 
 A feature focusing specifically on the psychological impacts of AI tutors. Instead of a cold "Incorrect" prompt, the AI gauges frustration via interaction patterns and offers psychologically supportive responses ("This is a tough concept, but let's look at it visually instead...").
 
 ## 5. App Structure Flow
-1. **User Onboarding:** Learner selects their preferred learning styles and goals.
+1. **User Onboarding:** Learner registers and sets broad academic goals. *(Note: Modality preferences are integrated directly into the workspace UI as on-demand contextual tools—such as clicking a speaker icon for an auditory read-aloud or toggling a 3D visualizer—rather than forcing the user to lock into a rigid learning style upfront).*
 2. **Dashboard / Home:** Displays the "Concept Mastery Checklist", pending tasks, and recent slide ingestions.
 3. **Workspace:** Where the active interaction happens (Conversational AI chat, mixed reality viewer, text editor for code/math).
 4. **Community Garden Tab:** Portal for peer-to-peer STEM collaboration.
